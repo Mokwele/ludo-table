@@ -1,0 +1,17 @@
+{
+  "name": "ludo-table",
+  "version": "1.0.0",
+  "description": "Two-dice Ludo you can play online with friends",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ws": "^8.22.2"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
